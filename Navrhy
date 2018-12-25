@@ -3,8 +3,9 @@ Návrhy:
 - Progrma funguje jako server, lze do něja zapisovat jména závodníků, rychlosti apod.
 - Pomocí webového rozhraní lze prezentovat fotografie, prezentovat výsledky, nahrávat nové fotografie do databáze a přidávat rychlosti závodníkům
 - Závodníci budou ukládáni do databází: pro web (jen to nejnutnější), plná databáze (všechna data včetně časů), historie změn; děleno podle roků (a ročníků)
-- Fotografie ukládány do databáze, automaticky přejmenovány, možnost souboru s názvy. Každá nahraná fotka bude zkontrolována na duplicitu pomocí hashe (uložené fotky hash v databázi)
+- Fotografie ukládány do databáze, automaticky přejmenovány, možnost souboru s názvy. Každá nahraná fotka bude zkontrolována na duplicitu pomocí.
 - Pravidelné automatické nahrávání výsledků na web Sprintprotiradaru.cz
 - Možnost automatické zálohy na vedlejší médium
 - Možnost import závodníků pomocíé .csv souboru
 - Pokročilé rozhraní programu: možnost pracovat s více závodníky, na základní obrazovce - začít psát = hledání daného závodníka, klávesové zkratky
+- Možnost využít https://www.w3schools.com/nodejs/nodejs_raspberrypi.asp
